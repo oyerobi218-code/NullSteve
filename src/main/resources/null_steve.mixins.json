@@ -1,0 +1,16 @@
+{
+"required": true,
+"package": "com.sahis.nullsteve.mixin",
+"compatibilityLevel": "JAVA_21",
+"mixins": [
+  "ServerPlayerInteractionManagerMixin",
+  "BlockMixin"
+],
+"client": [
+  "MinecraftClientMixin",
+  "TitleScreenMixin"
+],
+"injectors": {
+  "defaultRequire": 1
+}
+}
