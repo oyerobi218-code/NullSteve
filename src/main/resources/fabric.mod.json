@@ -1,0 +1,43 @@
+{
+"schemaVersion": 1,
+"id": "null_steve",
+"version": "${version}",
+"name": "NullSteve",
+"description": "Атмосферный психологический хоррор-мод. NullSteve наблюдает.",
+"authors": [
+  "sahis"
+],
+"contact": {
+  "homepage": "https://github.com/oyerobi218-code/NullSteve",
+  "sources": "https://github.com/oyerobi218-code/NullSteve",
+  "issues": "https://github.com/oyerobi218-code/NullSteve/issues"
+},
+"license": "MIT",
+"icon": "assets/null_steve/icon.png",
+"environment": "*",
+"entrypoints": {
+  "main": [
+    "com.sahis.nullsteve.NullSteveMod"
+  ],
+  "client": [
+    "com.sahis.nullsteve.client.NullSteveClient"
+  ],
+  "modmenu": [
+    "com.sahis.nullsteve.client.screen.NullSteveModMenuApi"
+  ]
+},
+"mixins": [
+  "null_steve.mixins.json"
+],
+"depends": {
+  "fabricloader": ">=0.16.0",
+  "minecraft": "~1.21.1",
+  "java": ">=21",
+  "fabric-api": "*"
+},
+"recommends": {
+  "modmenu": "*",
+  "yet_another_config_lib_v3": "*"
+},
+"suggests": {}
+}
