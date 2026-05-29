@@ -1,0 +1,68 @@
+{
+"entity.null_steve.null_steve": "NullSteve",
+"itemGroup.null_steve.main": "NullSteve",
+
+"text.null_steve.config.title": "NullSteve — Настройки",
+"text.null_steve.category.general": "Общее",
+"text.null_steve.category.events": "События",
+"text.null_steve.category.effects": "Эффекты",
+"text.null_steve.category.safety": "Безопасность",
+
+"text.null_steve.option.enabled": "Включить мод",
+"text.null_steve.option.enabled.desc": "Полностью включает или отключает поведение NullSteve.",
+
+"text.null_steve.option.intensity": "Интенсивность хоррора",
+"text.null_steve.option.intensity.desc": "Низкая, Средняя или Высокая. Влияет на частоту и силу событий.",
+
+"text.null_steve.option.day_interval": "Интервал событий днём (мин)",
+"text.null_steve.option.day_interval.desc": "Среднее время между событиями днём.",
+"text.null_steve.option.night_interval": "Интервал событий ночью (мин)",
+"text.null_steve.option.night_interval.desc": "Среднее время между событиями ночью.",
+
+"text.null_steve.option.visual_glitches": "Визуальные сбои",
+"text.null_steve.option.ui_errors": "Ложные UI-ошибки",
+"text.null_steve.option.movement_lock": "Заморозка движения",
+"text.null_steve.option.break_lock": "Блокировка ломания блоков",
+"text.null_steve.option.inventory_shuffle": "Перестановка инвентаря",
+"text.null_steve.option.signs": "Таблички",
+"text.null_steve.option.crosses": "Кресты",
+"text.null_steve.option.fake_messages": "Ложные системные сообщения",
+"text.null_steve.option.behind_appearances": "Появления за спиной",
+"text.null_steve.option.world_warning": "Предупреждение при создании мира",
+
+"text.null_steve.button.reset_stages": "Сбросить стадии NullSteve",
+"text.null_steve.button.reset_stages.desc": "Сбрасывает прогресс хоррор-стадий в текущем мире.",
+
+"text.null_steve.intensity.low": "Низкая",
+"text.null_steve.intensity.medium": "Средняя",
+"text.null_steve.intensity.high": "Высокая",
+
+"text.null_steve.screen.warning.title": "Minecraft",
+"text.null_steve.screen.warning.body": "Обнаружена неизвестная сущность в данных Minecraft. Рекомендуется удалить эту версию Minecraft перед продолжением.",
+"text.null_steve.screen.warning.yes": "Да",
+"text.null_steve.screen.warning.glitch": "Ошибка проверки. Источник: не определён.",
+
+"text.null_steve.msg.world.chunk_mismatch": "[Мир] Несовпадение данных чанка.",
+"text.null_steve.msg.light.unknown": "[Свет] Обнаружен неизвестный источник.",
+"text.null_steve.msg.client.out_of_range": "[Клиент/WARN] Сущность вне диапазона симуляции.",
+"text.null_steve.msg.unknown_source": "Источник события не определён.",
+"text.null_steve.msg.do_not_stay": "Не оставайтесь в этом мире.",
+"text.null_steve.msg.entered": "[Система] Целостность мира: пониженная.",
+"text.null_steve.msg.door_jammed": "[Блок] Не отвечает.",
+"text.null_steve.msg.inventory_resync": "[Клиент] Пересинхронизация инвентаря.",
+"text.null_steve.msg.player_observed": "[Сеть] Наблюдатель синхронизирован.",
+"text.null_steve.msg.signal_lost": "[Сеть] Потеря сигнала.",
+"text.null_steve.msg.tile_error": "[Тайл] Несоответствие состояния.",
+
+"text.null_steve.chat.reply.short.1": "видел",
+"text.null_steve.chat.reply.short.2": "не уходи",
+"text.null_steve.chat.reply.short.3": "слышу",
+"text.null_steve.chat.reply.short.4": "стой",
+"text.null_steve.chat.reply.short.5": "здесь",
+
+"text.null_steve.item.corrupted.1": "стру_ктур",
+"text.null_steve.item.corrupted.2": "пустой блок",
+"text.null_steve.item.corrupted.3": "не_данные",
+"text.null_steve.item.corrupted.4": "те_бя видно",
+"text.null_steve.item.corrupted.5": "сектор?"
+}
