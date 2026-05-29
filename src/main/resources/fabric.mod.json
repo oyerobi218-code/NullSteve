@@ -23,7 +23,7 @@
     "com.sahis.nullsteve.client.NullSteveClient"
   ],
   "modmenu": [
-    "com.sahis.nullsteve.client.screen.NullSteveModMenuApi"
+    "com.sahis.nullsteve.client.config.ModMenuIntegration"
   ]
 },
 "mixins": [
